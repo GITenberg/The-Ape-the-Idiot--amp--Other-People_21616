@@ -1,0 +1,36 @@
+_repo: The-Ape-the-Idiot--amp--Other-People_21616
+_version: 0.1.0
+alternative_title: The Ape, the Idiot and Other People
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morrow, W. C.
+    aliases:
+    - Morrow, W. C. (William Chambers)
+    - Morrow, William C.
+    birthdate: 1854
+    deathdate: 1923
+    gutenberg_agent_id: '24812'
+    url: http://www.gutenberg.org/2009/agents/24812
+description: ''
+gutenberg_issued: '2007-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21616'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'American fiction -- 19th century'
+tableOfContents: The resurrection of little Wang Tai -- The hero of the plague --  His
+  unconquerable enemy -- The permanent stiletto -- Over an absinthe bottle --  The
+  inmate of the dungeon -- A game of honor -- Treacherous Velasco -- An uncommon view
+  of it -- A story told by the sea -- The monster-maker -- An original revenge --
+  Two singular men -- The faithful amulet.
+title: The Ape, the Idiot & Other People
+url: http://www.gutenberg.org/ebooks/21616
